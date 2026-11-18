@@ -1,0 +1,47 @@
+{
+  "RL481528024455": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Daniel Seitel, Im Bauernfeld 23, 96049 Bamberg, Deutschland",
+    "receiver": "Marko Andreas, Ratschitschach 11, 9100 Völkermarkt, Österreich",
+    "price": "5.000,00 €",
+    "description": "Hersteller: Agripol<br>Typ: Culti 400<br>S.N: 966<br>Baujahr: 2017<br><br>Die Maschine ist voll funktionsfähig.",
+    "address": "Marko Andreas<br>Ratschitschach 11<br>9100 Völkermarkt<br>Österreich<br>Telefon: +43 664 7646770",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "18.11.2026",
+    "deliveryDate": "23.11.2026",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
